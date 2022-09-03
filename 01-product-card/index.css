@@ -1,0 +1,180 @@
+/* Смотри сколько снизу свободного места! Оно идеально подойдёт, чтобы писать твои стили! */
+
+
+#Products-of-the-week{
+position: absolute;
+width: 481px;
+height: 72px;
+left: 719.5px;
+top: 40px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 900;
+font-size: 48px;
+line-height: 72px;
+}
+
+#Product-cards{
+position: absolute;
+width: 481px;
+height: 72px;
+left: 719.5px;
+top: 40px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 900;
+font-size: 48px;
+line-height: 72px;
+/* identical to box height, or 150% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+}
+
+#Product-card1{
+/* Product Card */
+
+
+position: absolute;
+width: 380px;
+height: 482px;
+left: 370px;
+top: 152px;
+
+/* Shadow */
+
+box-shadow: 0px 0px 45px -4px rgba(0, 0, 0, 0.18);
+border-radius: 12px;
+}
+
+#Product-card2{
+position: absolute;
+width: 380px;
+height: 482px;
+left: 770px;
+top: 152px;
+
+/* Shadow */
+
+box-shadow: 0px 0px 45px -4px rgba(0, 0, 0, 0.18);
+border-radius: 12px;
+}
+
+#Product-card3{
+/* Product Card */
+
+
+position: absolute;
+width: 380px;
+height: 482px;
+left: 1170px;
+top: 152px;
+
+/* Shadow */
+
+box-shadow: 0px 0px 45px -4px rgba(0, 0, 0, 0.18);
+border-radius: 12px;
+}
+
+.cimg{
+position: absolute;
+height: 213.75px;
+left: 0%;
+right: 0%;
+top: 0px;
+
+background: url(https://vsegda-pomnim.com/uploads/posts/2022-04/1651245136_45-vsegda-pomnim-com-p-mandarin-frukt-foto-68.jpg);
+}
+.heading{
+	/* Heading */
+
+
+position: absolute;
+height: 36px;
+left: 24px;
+right: 24px;
+top: 237.75px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+line-height: 36px;
+/* or 150% */
+
+
+/* Mine Shaft */
+
+color: #2F2F2F;
+}
+.description{
+	/* Description */
+
+
+position: absolute;
+height: 48px;
+left: 24px;
+right: 24px;
+top: 289.75px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+
+/* Mine Shaft */
+
+color: #2F2F2F;
+
+}
+
+.button-c1{
+	/* Button */
+
+
+box-sizing: border-box;
+
+position: absolute;
+height: 48px;
+left: 24px;
+right: 24px;
+bottom: 24.25px;
+
+/* La Palma */
+
+border: 2px solid #42940F;
+border-radius: 8px;
+
+
+}
+
+.text-c1{
+	/* Text */
+
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 25px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #42940F;
+}
+
